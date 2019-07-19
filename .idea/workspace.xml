@@ -4,15 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/blogapi/settings.py" line="41" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fd90806-c17c-4785-ba39-71d9abd9f9c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rest_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rest_api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/pagination.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/pagination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fd90806-c17c-4785-ba39-71d9abd9f9c9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,12 +217,12 @@
       <workItem from="1563333207332" duration="8000" />
       <workItem from="1563333431277" duration="9304000" />
       <workItem from="1563390468520" duration="10410000" />
-      <workItem from="1563507897852" duration="3023000" />
+      <workItem from="1563507897852" duration="3621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35016000" />
+    <option name="totallyTimeSpent" value="35614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
