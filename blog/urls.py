@@ -11,5 +11,6 @@ urlpatterns = [
     path('comment/<int:pk>/', PostCommentDetailView.as_view(), name='comment_detail'),
     path('comment/create/', PostCommentCreateView.as_view(), name='comment_create'),
     path('comment/<int:pk>/delete/', PostCommentDeleteView.as_view(), name='comment_delete'),
+    path('marsel/', Marsel.as_view(), name='marsel_list'),
 
 ]

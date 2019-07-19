@@ -78,3 +78,12 @@ class PostCommentDeleteView(generics.DestroyAPIView):
     serializer_class = CommentSerializer
     authentication_classes = (TokenAuthentication,)
     permission_classes = (IsCommentOwner,)
+
+
+class Marsel(generics.ListAPIView):
+    queryset = Post.objects.all()
+    serializer_class = PostSerializer
+    pagination_class = ListPagination
+    filter_backends = (DjangoFilterBackend, filters.SearchFilter)
+    filterset_fields = ('user_name', 'title')
+    search_fields = ('user_name', 'title')
